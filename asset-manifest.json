@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/assignment_6A/static/css/main.8f3af5de.chunk.css",
+    "main.js": "/assignment_6A/static/js/main.3f0227d2.chunk.js",
+    "main.js.map": "/assignment_6A/static/js/main.3f0227d2.chunk.js.map",
+    "runtime-main.js": "/assignment_6A/static/js/runtime-main.bc99cf76.js",
+    "runtime-main.js.map": "/assignment_6A/static/js/runtime-main.bc99cf76.js.map",
+    "static/js/2.be0bf1f4.chunk.js": "/assignment_6A/static/js/2.be0bf1f4.chunk.js",
+    "static/js/2.be0bf1f4.chunk.js.map": "/assignment_6A/static/js/2.be0bf1f4.chunk.js.map",
+    "static/js/3.01dbb913.chunk.js": "/assignment_6A/static/js/3.01dbb913.chunk.js",
+    "static/js/3.01dbb913.chunk.js.map": "/assignment_6A/static/js/3.01dbb913.chunk.js.map",
+    "index.html": "/assignment_6A/index.html",
+    "static/css/main.8f3af5de.chunk.css.map": "/assignment_6A/static/css/main.8f3af5de.chunk.css.map",
+    "static/js/2.be0bf1f4.chunk.js.LICENSE.txt": "/assignment_6A/static/js/2.be0bf1f4.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/assignment_6A/static/media/homepage.0e9b0f64.png",
+    "static/media/blackberry.0b41918e.jpg": "/assignment_6A/static/media/blackberry.0b41918e.jpg",
+    "static/media/caramelpecan.79acdb22.jpg": "/assignment_6A/static/media/caramelpecan.79acdb22.jpg",
+    "static/media/cart.08ccb4c4.png": "/assignment_6A/static/media/cart.08ccb4c4.png",
+    "static/media/gfroll.7fbc1987.jpg": "/assignment_6A/static/media/gfroll.7fbc1987.jpg",
+    "static/media/logo.5214fab1.png": "/assignment_6A/static/media/logo.5214fab1.png",
+    "static/media/pumpkinspice-chocolate.7e6d6646.jpg": "/assignment_6A/static/media/pumpkinspice-chocolate.7e6d6646.jpg",
+    "static/media/pumpkinspice-sugar.d18bd9bd.jpg": "/assignment_6A/static/media/pumpkinspice-sugar.d18bd9bd.jpg",
+    "static/media/pumpkinspice-vanilla.89df6c08.jpg": "/assignment_6A/static/media/pumpkinspice-vanilla.89df6c08.jpg",
+    "static/media/pumpkinspice.436883e8.jpg": "/assignment_6A/static/media/pumpkinspice.436883e8.jpg",
+    "static/media/rolls.3c2eacd7.png": "/assignment_6A/static/media/rolls.3c2eacd7.png",
+    "static/media/walnut.dc02f773.jpg": "/assignment_6A/static/media/walnut.dc02f773.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc99cf76.js",
+    "static/js/2.be0bf1f4.chunk.js",
+    "static/css/main.8f3af5de.chunk.css",
+    "static/js/main.3f0227d2.chunk.js"
+  ]
+}
